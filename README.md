@@ -4,4 +4,4 @@ APIの使用上、Zaimの個人アカウント利用者が自分でデプロイ�
 
 # 技術スタック
 ・フロントエンド：TypeScript, React
-・バックエンド：TypeScript, Next.js
+・バックエンド：TypeScript, Node.js
